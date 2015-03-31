@@ -1,0 +1,23 @@
+{
+  "name": "tape-loop",
+  "version": "0.0.0",
+  "description": "Collaborative tape-loop sequencer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Glovesmore/tape-loop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glovesmore/tape-loop/issues"
+  },
+  "homepage": "https://github.com/Glovesmore/tape-loop",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3"
+  }
+}
